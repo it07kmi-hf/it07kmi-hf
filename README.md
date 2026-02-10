@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=175&section=header&text=Hambali%20Fitrianto&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center" style="color:#38bdf8">AI Engineer</h2>
+<!-- <h2 align="center" style="color:#38bdf8">AI Engineer</h2> -->
 
 ---
 
